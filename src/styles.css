@@ -84,8 +84,10 @@ h1 {
 .CoverIntro h3 {
   padding: 2px 0;
   margin: 2px 0;
-  line-height: 1px;
+  line-height: 5px;
   padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 30px;
 }
 
 .CoverIntro h5 {
@@ -93,6 +95,7 @@ h1 {
   margin: 0px;
   padding-bottom: 20px;
   color: #75d3d8;
+  font-size: 15px;
 }
 
 /* 
