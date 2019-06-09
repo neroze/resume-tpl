@@ -1,0 +1,100 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#root {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.flex-container {
+  display: flex;
+  align-items: stretch;
+}
+
+h1 {
+  font-size: 18px;
+  color: #119da4;
+}
+.col {
+  /* background-color: DodgerBlue; */
+  color: #333;
+  width: 100px;
+  margin: 5px;
+  text-align: center;
+  line-height: 25px;
+  font-size: 14px;
+}
+.col-1 {
+  flex-grow: 2;
+  text-align: right;
+  padding-right: 5px;
+  margin-right: 10px;
+  border-right: 1px #75d3d8 solid;
+  margin-right: 10px;
+  padding-right: 10px;
+
+  /* padding-top: 25%; */
+}
+
+.col-2 {
+  flex-grow: 8;
+  text-align: left;
+}
+
+.col-1 div {
+  /* font-size: 14px; */
+}
+.col-1 .info {
+  font-size: 16px;
+}
+
+.profil-image {
+  display: block;
+  border: 1px solid #333;
+  padding: 2px;
+  margin: 20px 45px;
+}
+
+.skills {
+  line-height: 25px;
+  word-spacing: 10px;
+  /* font-size: 22px; */
+}
+
+.position {
+  text-transform: capitalize;
+}
+
+.recommendation {
+  /* font-size: 13px; */
+  /* line-height: 18px; */
+  /* font-style: italic; */
+}
+
+.client-position {
+  font-weight: bold;
+}
+
+.position {
+  padding-bottom: 12px;
+}
+
+.CoverIntro h3 {
+  padding: 2px 0;
+  margin: 2px 0;
+  line-height: 1px;
+}
+
+.CoverIntro h5 {
+  padding: 0px;
+  margin: 0px;
+  padding-bottom: 20px;
+  color: #75d3d8;
+}
+
+/* 
+.recommendation-section {
+  padding-bottom: 10px;
+} */
