@@ -15,8 +15,8 @@ const experiences = ({ title, dataList }) => (
             .replace(/[ .]/g, "-")}`}
           src={
             experience.company_logo
-              ? `PICS/${experience.company_logo}`
-              : "PICS/react.ico"
+              ? `images/${experience.company_logo}`
+              : "images/react.ico"
           }
         />
         <div>

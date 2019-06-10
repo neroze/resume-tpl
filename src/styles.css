@@ -1,3 +1,7 @@
+body {
+  background: #fff;
+  font-size: 15px;
+}
 .App {
   font-family: sans-serif;
   text-align: center;
@@ -24,7 +28,6 @@ h1 {
   margin: 5px;
   text-align: center;
   line-height: 25px;
-  font-size: 14px;
 }
 .col-1 {
   flex-grow: 2;
@@ -38,9 +41,22 @@ h1 {
   /* padding-top: 25%; */
 }
 
+.col-1 section > h1 {
+  padding: 10px 0;
+  border-bottom: 1px solid #75d3d8;
+  text-transform: uppercase;
+}
+
 .col-2 {
   flex-grow: 8;
   text-align: left;
+}
+
+.col-2 section > h1 {
+  padding: 20px 0;
+  font-size: 25px;
+  text-transform: uppercase;
+  /* border-bottom: 1px solid #75d3d8; */
 }
 
 .col-1 div {
@@ -51,10 +67,9 @@ h1 {
 }
 
 .profil-image {
-  display: block;
   border: 1px solid #333;
   padding: 2px;
-  margin: 20px 45px;
+  margin: 30px 0;
 }
 
 .skills {
@@ -67,10 +82,30 @@ h1 {
   text-transform: capitalize;
 }
 
+.recommendation-section {
+  margin: 80px 0 50px 0;
+}
+
+.recommendation-section > section {
+  padding-bottom: 50px;
+}
+
+.recommendation-section img {
+  width: 80px;
+}
+
 .recommendation {
   /* font-size: 13px; */
   /* line-height: 18px; */
   /* font-style: italic; */
+}
+
+#experience > section {
+  padding-bottom: 50px;
+}
+
+#experience > section h1 {
+  /* padding-bottom: 50px; */
 }
 
 .client-position {
@@ -96,6 +131,10 @@ h1 {
   padding-bottom: 20px;
   color: #75d3d8;
   font-size: 15px;
+}
+
+.education {
+  padding-top: 80px;
 }
 
 /* 

@@ -26,7 +26,7 @@ const Resume = () => {
     <div className="row flex-container">
       <div className="left-panel col-1 col">
         <Info />
-        <EducationSection />
+        <EducationSection educationList={Data.education} />
         <Recommendations recommendationList={Data.recommendations} />
         <a
           target="_blank"

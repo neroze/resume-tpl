@@ -5,7 +5,7 @@ export const recommendationBlock = ({ recommendationData }) => (
     className={recommendationData.client_name}
     data-sr="wait 0.3s, enter left"
   >
-    <img alt="" src={`PICS/${recommendationData.profile_pic}`} />
+    <img alt="" src={`../images/${recommendationData.profile_pic}`} />
     <h1 className="green">{recommendationData.client_name}</h1>
     <div className="position">
       {recommendationData.client_position &&
