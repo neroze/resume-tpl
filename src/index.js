@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import Resume from "./resume";
-import "@fortawesome/fontawesome-free";
 
 import "./style2.css";
 

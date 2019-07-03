@@ -163,3 +163,15 @@ section h1 {
   line-height: 18px;
   color: #333;
 }
+
+#quick_links svg {
+  color: #75d3d8;
+  font-size: 25px;
+  padding: 5px;
+}
+
+.quote {
+  padding-right: 5px;
+  /* color: #75d3d8; */
+  font-size: 25px;
+}

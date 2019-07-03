@@ -16,7 +16,7 @@ export const recommendationBlock = ({ recommendationData }) => (
           </span>
         ))}
     </div>
-    <i className="fa quote fa-quote-left" />
+    <i className="fa quote fa-quote-left quote" />
     <span className="message">{recommendationData.recommendation}</span>
   </section>
 );
