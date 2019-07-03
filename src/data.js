@@ -1,46 +1,46 @@
 const Data = {
   skills: [
-    "#ReactJS",
-    "#JavaScript",
-    "#PHP",
-    "#Laravel",
-    "#VueJS",
-    "#Codeigniter",
-    "#NodeJS",
-    "#CSS",
-    "#Redux",
+    "ReactJS",
+    "JavaScript",
+    "PHP",
+    "Laravel",
+    "VueJS",
+    "Codeigniter",
+    "NodeJS",
+    "CSS",
+    "Redux",
     "Mobx",
-    "#AngularJS",
-    "#Ionic",
-    "#HTML",
-    "#SQL",
-    "#PouchDB",
-    "#MongoDB",
-    "#Appcelerator",
-    "#Titanium",
-    "#CSS3",
-    "#HTML5",
-    "#ES5",
-    "#SailsJS",
-    "#CouchDB",
-    "#Swift",
-    "#CakePHP",
-    "#Blade",
-    "#Smarty",
-    "#BackBoneJS",
-    "#UnderscoreJS",
-    "#MarionetteJS",
-    "#Webpack",
-    "#Browserify",
-    "#React-Native",
-    "#PhoneGap",
-    "#MVC",
-    "#Composer",
-    "#Git",
-    "#Git-FTP",
-    "#PhotoShop",
-    "#travis-ci",
-    "#Docker"
+    "AngularJS",
+    "Ionic",
+    "HTML",
+    "SQL",
+    "PouchDB",
+    "MongoDB",
+    "Appcelerator",
+    "Titanium",
+    "CSS3",
+    "HTML5",
+    "ES5",
+    "SailsJS",
+    "CouchDB",
+    "Swift",
+    "CakePHP",
+    "Blade",
+    "Smarty",
+    "BackBoneJS",
+    "UnderscoreJS",
+    "MarionetteJS",
+    "Webpack",
+    "Browserify",
+    "React-Native",
+    "PhoneGap",
+    "MVC",
+    "Composer",
+    "Git",
+    "Git-FTP",
+    "PhotoShop",
+    "travis-ci",
+    "Docker"
   ],
   web_frameworks: {
     title: "WEB FRAMEWORKS,CMS AND LIBRARIES ",
@@ -104,7 +104,7 @@ const Data = {
       profile_pic: "alaster.jpg",
       client_position: [
         "A freelance art director or designer ",
-        "Co-founder @ Projo.co"
+        "Co-founder @ wiip.co"
       ],
       recommendation: `I've been working with Niraj for a few years now and I couldn't recommend him more highly. 
 											Great skills, great communication and a developer that has solutions. 
@@ -116,7 +116,7 @@ const Data = {
       profile_pic: "thom.jpg",
       client_position: [
         "A freelance art director or designer ",
-        "Co-founder @ Projo.co"
+        "Co-founder @ wiip.co"
       ],
       recommendation: `Ive worked with Niraj multiple times over the last 3 years, he's a fantastic programer and designer. 
 			Hes goes above and beyond to deliver every time. I would recommend to anyone who is 
@@ -133,18 +133,18 @@ const Data = {
 						giving great customer service along the way. 
 						I would happily recommend him for your cloud app development`
     },
-    {
-      client_name: "Jon Margalit",
-      profile_pic: "jon.jpg",
-      client_position: [
-        "Head of Sales / Bussiness",
-        "Development Executive",
-        "CEO @ togally.com"
-      ],
-      recommendation: `I worked with Niraj on a daily basis for over a year now. His work is excellent, 
-											he's always meeting his deadlines, and he's extremely reliable. 
-											I highly recommend Niraj for all product development work. You can count on him!`
-    },
+    // {
+    //   client_name: "Jon Margalit",
+    //   profile_pic: "jon.jpg",
+    //   client_position: [
+    //     "Head of Sales / Bussiness",
+    //     "Development Executive",
+    //     "CEO @ togally.com"
+    //   ],
+    //   recommendation: `I worked with Niraj on a daily basis for over a year now. His work is excellent,
+    // 									he's always meeting his deadlines, and he's extremely reliable.
+    // 									I highly recommend Niraj for all product development work. You can count on him!`
+    // },
     {
       client_name: "Jason Kirby",
       profile_pic: "jason.png",
@@ -190,7 +190,7 @@ const Data = {
       company: "Snapwi.re",
       company_logo: "snapwire.png",
       postion: "Senior Fullstack Developer",
-      work_year: "2016 -  PRESENT PART TIME ",
+      work_year: "2016 -  2017 ",
       duties: [
         "Research and development",
         "Develop and support Laravel powered system"
@@ -203,10 +203,10 @@ const Data = {
       work_year: "January 2015 - 2016",
       duties: [
         "Project managment",
-        "Collection system requirement and prepare requirment specification ",
+        "System analysis and prepare requirment specification ",
         "Database desing and implemtation",
         "Research and development",
-        "Hybrid mobile app development with Titanium Appcelerator / Ionic",
+        "Hybrid mobile app development with Titanium Appcelerator",
         "Web system / Rest API service development"
       ]
     },
@@ -218,7 +218,7 @@ const Data = {
       work_year: "Februry 2013 - April 2015",
       duties: [
         "Project managment",
-        "Collection system requirement and prepare requirment specification ",
+        "System analysis and prepare requirment specification ",
         "Database desing and implemtation",
         "Hybrid mobile app development.",
         "Develop web systems",
@@ -231,7 +231,7 @@ const Data = {
       postion: "Senior PHP Developer",
       work_year: "November 2012 - January 2013",
       duties: [
-        "Collection system requirement and prepare requirment specification ",
+        "System analysis and prepare requirment specification ",
         "Database desing and implemtation",
         "Develop web systems",
         "Research and development"
@@ -243,7 +243,7 @@ const Data = {
       postion: "PHP Developer",
       work_year: "January 2011 - November 2012 ",
       duties: [
-        "Collection system requirement and prepare requirment specification ",
+        "System analysis and prepare requirment specification ",
         "Database desing and implemtation",
         "Develop web systems",
         "Research and development"
@@ -252,7 +252,7 @@ const Data = {
     {
       company: "Prince Stone Infosys",
       postion: "Part time PHP, MySQL JavaScript tutor",
-      work_year: "April 2011 - March 2013",
+      work_year: "April 2011 - March 2012",
       duties: []
     },
     {

@@ -1,5 +1,5 @@
 body {
-  background: #fff;
+  background: #ecf0f1;
   font-size: 15px;
 }
 .App {
@@ -8,8 +8,9 @@ body {
 }
 
 #root {
-  width: 75%;
+  width: 60%;
   margin: 0 auto;
+  background: #fff;
 }
 
 .flex-container {
@@ -19,7 +20,7 @@ body {
 
 h1 {
   font-size: 18px;
-  color: #119da4;
+  /* color: #119da4; */
 }
 .col {
   /* background-color: DodgerBlue; */
@@ -34,9 +35,9 @@ h1 {
   text-align: right;
   padding-right: 5px;
   margin-right: 10px;
-  border-right: 1px #75d3d8 solid;
+  /* border-right: 1px #75d3d8 solid; */
   margin-right: 10px;
-  padding-right: 10px;
+  padding-right: 20px;
 
   /* padding-top: 25%; */
 }
@@ -50,6 +51,7 @@ h1 {
 .col-2 {
   flex-grow: 8;
   text-align: left;
+  padding-right: 20px;
 }
 
 .col-2 section > h1 {
@@ -105,7 +107,9 @@ h1 {
 }
 
 #experience > section h1 {
-  /* padding-bottom: 50px; */
+  margin: 5px 0;
+  padding: 5px 0;
+  di
 }
 
 .client-position {
@@ -129,7 +133,7 @@ h1 {
   padding: 0px;
   margin: 0px;
   padding-bottom: 20px;
-  color: #75d3d8;
+  /* color: #119da4; */
   font-size: 15px;
 }
 

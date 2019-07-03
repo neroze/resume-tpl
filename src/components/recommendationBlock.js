@@ -2,11 +2,11 @@ import React from "react";
 
 export const recommendationBlock = ({ recommendationData }) => (
   <section
-    className={recommendationData.client_name}
+    className={`${recommendationData.client_name} recommendation`}
     data-sr="wait 0.3s, enter left"
   >
     <img alt="" src={`../images/${recommendationData.profile_pic}`} />
-    <h1 className="green">{recommendationData.client_name}</h1>
+    <h3 className="green">{recommendationData.client_name}</h3>
     <div className="position">
       {recommendationData.client_position &&
         recommendationData.client_position.map(position => (
@@ -17,7 +17,7 @@ export const recommendationBlock = ({ recommendationData }) => (
         ))}
     </div>
     <i className="fa quote fa-quote-left" />
-    <span className="recommendation">{recommendationData.recommendation}</span>
+    <span className="message">{recommendationData.recommendation}</span>
   </section>
 );
 

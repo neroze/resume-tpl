@@ -1,9 +1,7 @@
 import React from "react";
 
 const coverIntro = () => (
-  <div className="CoverIntro">
-    <h3 className="purple">Niraj Maharjan</h3>
-    <h5>Senior JavaScript Developer (ReactJS)</h5>
+  <div className="coverIntro">
     Experienced Lead Developer with a demonstrated history of working in the
     computer software industry. Skilled in JavaScript, PHP, ReactJS, VueJS,
     MySQL, MongoDB, Laravel, Codeigniter, Cake PHP, Titanium Mobile, PhoneGap,

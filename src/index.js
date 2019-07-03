@@ -2,8 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import Resume from "./resume";
+import "@fortawesome/fontawesome-free";
 
-import "./styles.css";
+import "./style2.css";
 
 function App() {
   return (
