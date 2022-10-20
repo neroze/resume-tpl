@@ -40,27 +40,26 @@ const Data = {
     "Git-FTP",
     "PhotoShop",
     "travis-ci",
-    "Docker"
+    "Docker",
   ],
   web_frameworks: {
     title: "WEB FRAMEWORKS,CMS AND LIBRARIES ",
     data: [
       {
         title: "CODEIGNITER",
-        desc: "OPEN SOURCE PHP MODEL VIEW CONTROLLER (MVC) BASED FRAMEWORK"
+        desc: "OPEN SOURCE PHP MODEL VIEW CONTROLLER (MVC) BASED FRAMEWORK",
       },
       { title: "LARAVEL", desc: "OPEN SOURCE PHP,A COMPOSER POWERED FRAMWORK" },
       { title: "WORDPRESS", desc: "OPEN SOURCE PHP CONTENT MANAGEMENT SYSTEM" },
       {
         title: "SAILSJS",
-        desc: "AN AWESOME AN POWERFULL FRAMEWORK FOR  NODEJS"
+        desc: "AN AWESOME AN POWERFULL FRAMEWORK FOR  NODEJS",
       },
       {
         title: "CAKEPHP",
-        desc:
-          "OPEN SURCE PHP MODEL VIEW CONTROLLER (MVC) BASED WEB APPLICATION FRAMEWORK"
-      }
-    ]
+        desc: "OPEN SURCE PHP MODEL VIEW CONTROLLER (MVC) BASED WEB APPLICATION FRAMEWORK",
+      },
+    ],
   },
   hybrid_mobile: {
     title: "HYBRID MOBILE APP DEVELOPMENT FRAMEWORKS",
@@ -69,18 +68,17 @@ const Data = {
         title: "PHONEGAP",
         desc: `PHONEGAP IS A FREE AND OPEN SOURCE FRAMEWORK THAT ALLOWS TO CREATE 
 							MOBILE APPS USING STANDARIDZED WEB APIS
-							FOR THE MOBILE PLATFORMS.`
+							FOR THE MOBILE PLATFORMS.`,
       },
       {
         title: "IONIC",
-        desc: "ANOTER AWESOME CROSS PLATFORM MOBILE APP DEVELOPMENT FRAMEWORK "
+        desc: "ANOTER AWESOME CROSS PLATFORM MOBILE APP DEVELOPMENT FRAMEWORK ",
       },
       {
         title: "APPCELERATOR TITANIUM",
-        desc:
-          "A POWERFUL FRAMEWORK THAT DELIVERS CROSS PLATFORM NATIVE MOBILE APPS"
-      }
-    ]
+        desc: "A POWERFUL FRAMEWORK THAT DELIVERS CROSS PLATFORM NATIVE MOBILE APPS",
+      },
+    ],
   },
   education: [
     {
@@ -88,15 +86,15 @@ const Data = {
       logo: "portsmouth.jpg",
       level: "Bachelorl's Degree",
       title: "Bsc Honors in Computing",
-      year: "2008-2011"
+      year: "2008-2011",
     },
     {
       school_name: "Informatics Academy, Kathmandu",
       logo: "informatis.jpg",
       level: "Diploma / Advance Diploma",
       title: "Computing",
-      year: "2008-2010"
-    }
+      year: "2008-2010",
+    },
   ],
   recommendations: [
     {
@@ -104,34 +102,34 @@ const Data = {
       profile_pic: "alaster.jpg",
       client_position: [
         "A freelance art director or designer ",
-        "Co-founder @ wiip.co"
+        "Co-founder @ wiip.co",
       ],
       recommendation: `I've been working with Niraj for a few years now and I couldn't recommend him more highly. 
 											Great skills, great communication and a developer that has solutions. 
 											We've trusted him and his team on several big jobs and it's been a pleasure working with him. 
-											He feels like one of the team. Keep up the great work mate!`
+											He feels like one of the team. Keep up the great work mate!`,
     },
     {
       client_name: "Thom Davy",
       profile_pic: "thom.jpg",
       client_position: [
         "A freelance art director or designer ",
-        "Co-founder @ wiip.co"
+        "Co-founder @ wiip.co",
       ],
       recommendation: `Ive worked with Niraj multiple times over the last 3 years, he's a fantastic programer and designer. 
 			Hes goes above and beyond to deliver every time. I would recommend to anyone who is 
-			looking to start a web based platform and anything digital!`
+			looking to start a web based platform and anything digital!`,
     },
     {
       client_name: "Dave Palowkar",
       profile_pic: "dave.jpg",
       client_position: [
         "IIT Channel Sales Professional",
-        "Founder goquantum.io"
+        "Founder goquantum.io",
       ],
       recommendation: `Niraj is very professional, highly communicative and focused on the task at hand, 
 						giving great customer service along the way. 
-						I would happily recommend him for your cloud app development`
+						I would happily recommend him for your cloud app development`,
     },
     // {
     //   client_name: "Jon Margalit",
@@ -151,38 +149,36 @@ const Data = {
       client_position: [
         "Talented highly creative",
         "Marketing director",
-        "Co-founder @ togally.com"
+        "Co-founder @ togally.com",
       ],
       recommendation: `I worked directly with Niraj on developing Togally and was always impressed by how quickly and 
 											accurately he completed his tasks. Niraj was directly responsible for developing our API and 
 											mobile app for Togally and did an incredible job. He also helped on big projects for the 
 											main website when we needed him to and did so without hesitation. 
 											He is a great team player who knows how to communicate and take direction very well. 
-											Niraj is a great asset to any team and I would hire him again for future projects`
-    }
+											Niraj is a great asset to any team and I would hire him again for future projects`,
+    },
   ],
   experiences: [
-   {
+    {
       company: "Logpoint Nepal Pvt Ltd",
-      company_logo: "https://www.logpoint.com/wp-content/uploads/2022/04/logo-logpoint-1.png",
+      company_logo: "logo-logpoint.png",
       postion: "Engineering mamager ",
       work_year: "July 2021 - present",
-      duties: [
-        "Support and Manage development team"
-      ]
+      duties: ["Support and Manage development team"],
     },
     {
       company: "Logpoint Nepal Pvt Ltd",
-      company_logo: "https://www.logpoint.com/wp-content/uploads/2022/04/logo-logpoint-1.png",
+      company_logo: "logo-logpoint.png",
       postion: "Principal Software Engineer ",
       work_year: "Sep 2021 - July 2021",
       duties: [
         "Manage Team",
-	"Lead project development",
-        "Research and development"
-      ]
+        "Lead project development",
+        "Research and development",
+      ],
     },
-   {
+    {
       company: "Zegal",
       company_logo: "zegal.png",
       postion: "Senior JavaScript Developer (ReactJS)",
@@ -190,8 +186,8 @@ const Data = {
       duties: [
         "Manage Team",
         "Research and development",
-        "Develop and support ReactJS based app"
-      ]
+        "Develop and support ReactJS based app",
+      ],
     },
     {
       company: "GoQuantum.io",
@@ -203,8 +199,8 @@ const Data = {
         "System Design",
         "Database design and development",
         "Web system / Rest API service development",
-        "Research and development"
-      ]
+        "Research and development",
+      ],
     },
     {
       company: "Snapwi.re",
@@ -213,8 +209,8 @@ const Data = {
       work_year: "2016 -  2017 ",
       duties: [
         "Research and development",
-        "Develop and support Laravel powered system"
-      ]
+        "Develop and support Laravel powered system",
+      ],
     },
     {
       company: "TOGALLY",
@@ -227,8 +223,8 @@ const Data = {
         "Database desing and implemtation",
         "Research and development",
         "Hybrid mobile app development with Titanium Appcelerator",
-        "Web system / Rest API service development"
-      ]
+        "Web system / Rest API service development",
+      ],
     },
 
     {
@@ -242,8 +238,8 @@ const Data = {
         "Database desing and implemtation",
         "Hybrid mobile app development.",
         "Develop web systems",
-        "Research and development"
-      ]
+        "Research and development",
+      ],
     },
     {
       company: "EBpearls",
@@ -254,8 +250,8 @@ const Data = {
         "System analysis and prepare requirment specification ",
         "Database desing and implemtation",
         "Develop web systems",
-        "Research and development"
-      ]
+        "Research and development",
+      ],
     },
     {
       company: "Mount Digit Technologies",
@@ -266,14 +262,14 @@ const Data = {
         "System analysis and prepare requirment specification ",
         "Database desing and implemtation",
         "Develop web systems",
-        "Research and development"
-      ]
+        "Research and development",
+      ],
     },
     {
       company: "Prince Stone Infosys",
       postion: "Part time PHP, MySQL JavaScript tutor",
       work_year: "April 2011 - March 2012",
-      duties: []
+      duties: [],
     },
     {
       company: "Update Nepal",
@@ -282,10 +278,10 @@ const Data = {
       duties: [
         "Develop web systems",
         "Research and development",
-        "Database desing and implemtation"
-      ]
-    }
-  ]
+        "Database desing and implemtation",
+      ],
+    },
+  ],
 };
 
 export default Data;
