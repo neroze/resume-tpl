@@ -162,7 +162,27 @@ const Data = {
     }
   ],
   experiences: [
+   {
+      company: "Logpoint Nepal Pvt Ltd",
+      company_logo: "https://www.logpoint.com/wp-content/uploads/2022/04/logo-logpoint-1.png",
+      postion: "Engineering mamager ",
+      work_year: "July 2021 - present",
+      duties: [
+        "Support and Manage development team"
+      ]
+    },
     {
+      company: "Logpoint Nepal Pvt Ltd",
+      company_logo: "https://www.logpoint.com/wp-content/uploads/2022/04/logo-logpoint-1.png",
+      postion: "Principal Software Engineer ",
+      work_year: "Sep 2021 - July 2021",
+      duties: [
+        "Manage Team",
+	"Lead project development",
+        "Research and development"
+      ]
+    },
+   {
       company: "Zegal",
       company_logo: "zegal.png",
       postion: "Senior JavaScript Developer (ReactJS)",
